@@ -1,4 +1,4 @@
-package ru.alttiri.Trash.Others.Trash;
+package ru.alttiri.Trash.Others.Trash.Test01;
 
 
 
