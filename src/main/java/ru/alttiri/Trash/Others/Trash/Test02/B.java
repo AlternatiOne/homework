@@ -1,5 +1,7 @@
 package ru.alttiri.Trash.Others.Trash.Test02;
 
+//https://ru.stackoverflow.com/questions/464028/Что-раньше-инициализируется-поля-класса-или-конструктор
+
 class A
 {
     int a = 9;
