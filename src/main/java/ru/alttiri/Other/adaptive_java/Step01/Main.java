@@ -1,4 +1,4 @@
-package ru.alttiri.Other.AdaptiveJava.Step01;
+package ru.alttiri.Other.adaptive_java.Step01;
 
 import java.util.Scanner;
 
