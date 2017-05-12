@@ -1,4 +1,4 @@
-package ru.alttiri.Trash.Others;
+package ru.alttiri.Trash.Others.Trash;
 
 
 import java.util.*;
