@@ -8,7 +8,7 @@ import java.util.Collection;
 
 /**
 @see ru.alttiri.examples.Others.Trash.Test06.Main
-@see Hack
+@see ru.alttiri.stepik.basic.section6.stage1.Hack
 @see ru.alttiri.stepik.basic.section6.stage1.Example
 @see ru.alttiri.stepik.basic.section6.stage1.step12.Pair
  */
