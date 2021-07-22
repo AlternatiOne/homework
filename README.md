@@ -1,15 +1,15 @@
 # HomeWork
 
 
-Различные наработки, написанные в процессе освоения Java. 
+Some code written when I was learning Java. 
 
-В частности, пройденные:
+In particular, complited:
 
-- [Java. Базовый курс][stepik-basic]
+- [Java. Basic course][stepik-basic]
 
 - [Java. Functional programming][stepik-functional]
 
-А также много различных примеров.
+And also there are lots of other examples.
 
 
 
